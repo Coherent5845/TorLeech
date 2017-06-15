@@ -1,0 +1,15 @@
+{
+	"name": "iPad TechSpot Torrent Leecher",
+	"website": "http://ipadtechspot.blogspot.com",
+	"repository": "https://github.com/ipadtechspot/iTS-torrent",
+	"env": {
+		"TITLE": {
+			"description": "Optionally set the title of this instance (defaults to 'iPad TechSpot Torrent Leecher')",
+			"required": false
+		},
+		"AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
+}
